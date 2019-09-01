@@ -42,3 +42,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## アプリの作り方
+
+- `create react app アプリ名 --typescript`
+- `npm install --save typescript @types/node @types/react @types/react-dom @types/jest`
+- `npm install --save redux @types/redux react-redux @types/react-redux`
+- `npm install --save axios @material-ui/core @material-ui/icons`
+- `npm install --save react-router-dom @types/react-router-dom`
