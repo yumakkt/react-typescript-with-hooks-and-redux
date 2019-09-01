@@ -1,5 +1,5 @@
 import React from "react";
-import MyInputField from "components/MyInputField";
+import MyInputField from "components/atoms/MyInputField";
 import { useDispatch, useSelector } from "react-redux";
 import { RootState } from "stores";
 import { authUser } from "stores/form/thunks";
